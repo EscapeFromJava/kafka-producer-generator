@@ -25,7 +25,7 @@ public class KafkaProducerGeneratorApplication {
 
     @GetMapping("/api/test2")
     public String test2() {
-        System.out.println("ad");
+        System.out.println("adasdasd");
         return "Test2";
     }
 
